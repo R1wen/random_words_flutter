@@ -1,4 +1,4 @@
-# Namer App
+# Random Words Flutter
 
 Une application Flutter de génération de noms aléatoires, permettant à l'utilisateur de parcourir des paires de mots, de les ajouter à ses favoris et de consulter la liste de ses favoris.
 
